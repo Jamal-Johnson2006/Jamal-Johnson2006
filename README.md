@@ -1,9 +1,9 @@
-# Hi there 👋, I’m Allyson Silva
+# Hi there 👋, I’m Jamal Johnson 
 
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Open Source Projects**  
-- 🌱 I’m currently learning **JavaScript, Python, and Deep Learning**  
+- 🌱 I’m currently learning **JavaScript, Python, and HTML**  
 - 👯 I’m looking to collaborate on **web dev**, **API development**  
 - 📫 How to reach me: [Email](mailto:johnson.jamal1@student.oaklandcc.edu)  
 - ⚡ Fun fact: I love cats, hiking, and cooking  
